@@ -1,0 +1,4 @@
+https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html
+https://static.pexels.com/photos/36764/marguerite-daisy-beautiful-beauty.jpg
+http://www.avajava.com/images/avajavalogo.jpg
+http://www.axmag.com/download/pdfurl-guide.pdf
